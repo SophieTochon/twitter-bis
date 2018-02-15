@@ -1,24 +1,10 @@
-# README
+# Hello !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sache que l'html-only est tout-à-fait assumé (#rebelle 😈).
 
-Things you may want to cover:
+L'app est liée à mon (vrai) compte Twitter alors sois cool, poste uniquement des messages d'amour avec des petits coeurs.
+Tu peux retrouver tes oeuvres par ici : https://twitter.com/SophieTochon
 
-* Ruby version
+Go https://tranquil-garden-86554.herokuapp.com/ !
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Have fun!**
